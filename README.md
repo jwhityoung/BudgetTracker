@@ -23,4 +23,4 @@ Giving users a fast and easy way to track their money is important, but allowing
 [Track-that-Money](https://track-that-money.herokuapp.com/)
 
 ## GIF of Deployed App 
-[GIF](https://giphy.com/gifs/W4tgWrKCGizEQCCxmh)
+[GIF](https://media2.giphy.com/media/W4tgWrKCGizEQCCxmh/giphy.gif)
